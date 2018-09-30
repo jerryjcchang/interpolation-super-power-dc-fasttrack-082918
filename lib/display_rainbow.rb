@@ -1,4 +1,4 @@
 # Write your #display_rainbow method here
 def display_rainbow(colors)
-  puts "R: #{color[1]"
+  puts "R: #{color[1]}"
 end
